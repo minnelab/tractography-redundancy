@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# data
+*.trk
+*.tck
+*.nii.gz
+*.csv
+*.npy
+*.h5

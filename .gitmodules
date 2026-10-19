@@ -1,0 +1,6 @@
+[submodule "external/TractSeg"]
+	path = external/TractSeg
+	url = https://github.com/MIC-DKFZ/TractSeg.git
+[submodule "external/SupWMA"]
+	path = external/SupWMA
+	url = https://github.com/SlicerDMRI/SupWMA.git
